@@ -1,0 +1,10 @@
+https://www.example1.org/ 1
+https://www.example2.org/ 1
+https://www.example3.org/ 1
+https://www.example4.org/ 1
+https://www.example5.org/ 1
+https://www.example6.org/ 1
+https://www.example7.org/ 1
+https://www.example8.org/ 1
+https://www.example9.org/ 1
+https://www.example10.org/ 1
